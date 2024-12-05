@@ -1,2 +1,2 @@
 # Orangneraph
-CS50X Introduction 
+CS50X Introduction
